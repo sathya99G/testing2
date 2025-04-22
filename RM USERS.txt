@@ -1,0 +1,142 @@
+
+RM USERS CLEANUP
+
+RM-application-management
+RM-application-management-Amdoc
+RM-application-management-BSS
+RM-application-CIO Service assu
+RM-AM-Financial Synergy
+RM-AM-Fusion
+RM-AM-HP
+RM-AM-Online
+RM-AM-OSS
+RM-AM-Sorriso
+RM-AM-SSO
+RM-AM-Web
+RM-AM-Web Integration
+RM-AM-UXP
+RM-AM-Data management
+RM-AM-prod-Amdocs
+RM-AM-prod-BSS
+RM-AM-prodCIO-Service Assurance
+RM-AM-prod-Finace Synergy
+RM-AM-prod-Fusion
+RM-AM-prod-HP
+RM-AM-prod-Online
+RM-AM-prod-OSS
+RM-AM-prod-Sorrio
+RM-AM-prod-SSO
+RM-AM-prod-Web
+RM-AM-prod-Web Integration
+RM-AM-prod-UXP
+RM-AM-prod-Data Management
+RM-AM-Uat-Amdocs
+RM-AM-uat-BSS
+RM-AM-uat-CIO Service Assurance
+RM-UAT-manger-Customer Experien
+RM-AM-uat-Finance Syne
+RM-AM-uat-Fusion
+RM-AM-uat-HP
+RM-uat-Online
+RM-AM-uat-OSS
+RM-AM-uat-Sorrio
+RM-AM-uat-Online
+RM-AM-uat-Web
+RM-AM-uat-Web Integration
+RM-AM-uat-UXP
+RM-AM-uat-Data Management
+RM-Demand Management
+RM-Demand mangement-AT
+RM-Demand Management-BE
+RM-Demand-management-CH
+RM-DM-Operational Excellence
+RM-DM-Customer Experience
+RM-DM-CZ
+RM-DM-CIO Assurance service
+RM-DM-Finance Synergy
+RM-DM-HU
+RM-DM-IE
+RM-DM-LU
+RM-DM-NL
+RM-DM-RO
+RM-DM-Supply chain management
+RM-DM-UK
+RM-lg-demand-management-prod
+RM-lg-demand-management-uat
+RM-integration-management
+RM-EM-patch-team
+RM-UAT-manager-UK
+RM-UAT-manager-Supply chain man
+RM-UAT-manager-PL
+
+
+RM USERS
+
+RMS-create-release-container
+RMS-EM-release-management
+RMS-create-release-request
+RMS-Developers
+RMS-Users
+RMS-Demand-Management
+RMS-Em-Patch-Team
+RMS-SIT-Team
+RM-Create-Release-Container
+RM-Em-Release-Management
+RM-Create-Release-request
+RM-Developers
+RM-Development_Manager
+Rm-Development-Manager-Amdocs
+RM-Development-manager-CIO Serv
+RM-Development-Manager-cisco
+RM-Development-Manager-ericssio
+RM-dev-Manager-finance synergy
+RM-Development-Manager-Fusion
+RM-decelopment-manager-HP
+RM-Development-Manager-IBM
+RM-development-manager-Online
+RM-development-manager-OpenPage
+RM-development-manager-OSS
+RM-development-manager-Sorisso
+RM-development-manager-SSO
+RM-development-manager-Web
+RM-dev-manager-web Integration
+RM-Development-manager-UXP
+RM-development-manager-windows
+RM-development-manager-Data Man
+RM-business-validation
+RM-business-validation-AT
+RM-business-validation-BE
+RM-business-validation-CH
+RM-business-validation-CIO serv
+RM-business-validation-Customer
+RM-business-validation-CZ
+RM-business-validation-Finanace
+RM-business-validation-HU
+RM-business-validation-IE
+RM-business-validation-NL
+RM-business-validation-Operatio
+RM-business-validation-PL
+RM_business-validation-RO
+RM-business-validation-Supply C
+RM-business-validation-UK
+RM-application-management-prod-
+RM-ORT-Manager
+RM-Country-All
+RM-UAT-Team-AT
+RM-UAT-team-BE
+RM-UAT-team-CH
+RM-UAT-team-CIO Service-Assuren
+RM-UAT-team-Customer-Experiance
+RM-UAT-team-CZ
+RM-UAT-team-DE
+RM-UAT-team-finance synergy
+RM-UAT-team-IE
+RM-UAT-team-NL
+RM-UAT-team-PL
+RM-UAT-team-Operational Excelle
+RM-UAT-manager-BE
+RM-UAT-manager-CH
+RM-UAT-manager-CZ
+RM-UAT-manager-Finance Synergy
+RM-UAT-manager-IE
+RM-UAT-manager-NL
